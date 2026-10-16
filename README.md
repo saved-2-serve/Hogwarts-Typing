@@ -2,7 +2,11 @@
 
 A wizarding-school typing game that teaches touch typing step by step, in a single HTML file.
 
-## Getting started
+## ▶ [Play it in your browser](https://saved-2-serve.github.io/Hogwarts-Typing/)
+
+No download needed. Just open the link and click anywhere to begin.
+
+## Playing offline
 
 1. Get the game file:
    - **Download just the game:** open [`Hogwarts Typing Academy.html`](Hogwarts%20Typing%20Academy.html) on GitHub, then click the **Download raw file** button (↓) at the top right of the file view.
